@@ -1,0 +1,20 @@
+C:\Users\BruceLee\Dropbox\C# Projects\WeatherProject\WeatherProject\bin\Debug\WeatherProject.exe.config
+C:\Users\BruceLee\Dropbox\C# Projects\WeatherProject\WeatherProject\bin\Debug\WeatherProject.exe
+C:\Users\BruceLee\Dropbox\C# Projects\WeatherProject\WeatherProject\bin\Debug\WeatherProject.pdb
+C:\Users\BruceLee\Dropbox\C# Projects\WeatherProject\WeatherProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BruceLee\Dropbox\C# Projects\WeatherProject\WeatherProject\obj\x86\Debug\WeatherProject.Form1.resources
+C:\Users\BruceLee\Dropbox\C# Projects\WeatherProject\WeatherProject\obj\x86\Debug\WeatherProject.Properties.Resources.resources
+C:\Users\BruceLee\Dropbox\C# Projects\WeatherProject\WeatherProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BruceLee\Dropbox\C# Projects\WeatherProject\WeatherProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BruceLee\Dropbox\C# Projects\WeatherProject\WeatherProject\obj\x86\Debug\WeatherProject.exe
+C:\Users\BruceLee\Dropbox\C# Projects\WeatherProject\WeatherProject\obj\x86\Debug\WeatherProject.pdb
+C:\Users\Bruce Lee\Dropbox\C# Projects\WeatherProject\WeatherProject\bin\Debug\WeatherProject.exe.config
+C:\Users\Bruce Lee\Dropbox\C# Projects\WeatherProject\WeatherProject\obj\x86\Debug\WeatherProject.exe
+C:\Users\Bruce Lee\Dropbox\C# Projects\WeatherProject\WeatherProject\obj\x86\Debug\WeatherProject.pdb
+C:\Users\Bruce Lee\Dropbox\C# Projects\WeatherProject\WeatherProject\bin\Debug\WeatherProject.exe
+C:\Users\Bruce Lee\Dropbox\C# Projects\WeatherProject\WeatherProject\bin\Debug\WeatherProject.pdb
+C:\Users\Bruce Lee\Dropbox\C# Projects\WeatherProject\WeatherProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce Lee\Dropbox\C# Projects\WeatherProject\WeatherProject\obj\x86\Debug\WeatherProject.Form1.resources
+C:\Users\Bruce Lee\Dropbox\C# Projects\WeatherProject\WeatherProject\obj\x86\Debug\WeatherProject.Properties.Resources.resources
+C:\Users\Bruce Lee\Dropbox\C# Projects\WeatherProject\WeatherProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bruce Lee\Dropbox\C# Projects\WeatherProject\WeatherProject\obj\x86\Debug\GenerateResource.write.1.tlog

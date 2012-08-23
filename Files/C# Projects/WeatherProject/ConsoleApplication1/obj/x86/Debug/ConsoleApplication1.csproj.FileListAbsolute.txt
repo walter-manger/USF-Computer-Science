@@ -1,0 +1,5 @@
+C:\Users\BruceLee\Dropbox\C# Projects\WeatherProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\BruceLee\Dropbox\C# Projects\WeatherProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\BruceLee\Dropbox\C# Projects\WeatherProject\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BruceLee\Dropbox\C# Projects\WeatherProject\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\BruceLee\Dropbox\C# Projects\WeatherProject\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,13 @@
+C:\Users\Bruce Lee\Dropbox\C# Projects\RollingDice\RollingDice\bin\Debug\RollingDice.exe
+C:\Users\Bruce Lee\Dropbox\C# Projects\RollingDice\RollingDice\bin\Debug\RollingDice.pdb
+C:\Users\Bruce Lee\Dropbox\C# Projects\RollingDice\RollingDice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce Lee\Dropbox\C# Projects\RollingDice\RollingDice\obj\x86\Debug\RollingDice.Properties.Resources.resources
+C:\Users\Bruce Lee\Dropbox\C# Projects\RollingDice\RollingDice\obj\x86\Debug\RollingDice.RollingDiceForm.resources
+C:\Users\Bruce Lee\Dropbox\C# Projects\RollingDice\RollingDice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bruce Lee\Dropbox\C# Projects\RollingDice\RollingDice\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bruce Lee\Dropbox\C# Projects\RollingDice\RollingDice\obj\x86\Debug\RollingDice.exe
+C:\Users\Bruce Lee\Dropbox\C# Projects\RollingDice\RollingDice\obj\x86\Debug\RollingDice.pdb
+C:\Users\Bruce Lee\Dropbox\C# Projects\RollingDice\RollingDice\obj\x86\Debug\RollingDice.DataDisplay.resources
+C:\Users\Bruce Lee\Dropbox\C# Projects\RollingDice\RollingDice\obj\x86\Debug\RollingDice.ChartDisplay.resources
+C:\Users\BruceLee\Dropbox\C# Projects\RollingDice\RollingDice\obj\x86\Debug\RollingDice.exe
+C:\Users\BruceLee\Dropbox\C# Projects\RollingDice\RollingDice\obj\x86\Debug\RollingDice.pdb

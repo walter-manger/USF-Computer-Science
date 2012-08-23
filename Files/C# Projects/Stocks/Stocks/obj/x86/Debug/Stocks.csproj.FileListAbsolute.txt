@@ -1,0 +1,18 @@
+C:\Users\BruceLee\Dropbox\C# Projects\Stocks\Stocks\bin\Debug\Stocks.exe
+C:\Users\BruceLee\Dropbox\C# Projects\Stocks\Stocks\bin\Debug\Stocks.pdb
+C:\Users\BruceLee\Dropbox\C# Projects\Stocks\Stocks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BruceLee\Dropbox\C# Projects\Stocks\Stocks\obj\x86\Debug\Stocks.DataEntryForm.resources
+C:\Users\BruceLee\Dropbox\C# Projects\Stocks\Stocks\obj\x86\Debug\Stocks.Properties.Resources.resources
+C:\Users\BruceLee\Dropbox\C# Projects\Stocks\Stocks\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BruceLee\Dropbox\C# Projects\Stocks\Stocks\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BruceLee\Dropbox\C# Projects\Stocks\Stocks\obj\x86\Debug\Stocks.exe
+C:\Users\BruceLee\Dropbox\C# Projects\Stocks\Stocks\obj\x86\Debug\Stocks.pdb
+C:\Users\Bruce Lee\Dropbox\C# Projects\Stocks\Stocks\obj\x86\Debug\Stocks.exe
+C:\Users\Bruce Lee\Dropbox\C# Projects\Stocks\Stocks\obj\x86\Debug\Stocks.pdb
+C:\Users\Bruce Lee\Dropbox\C# Projects\Stocks\Stocks\bin\Debug\Stocks.exe
+C:\Users\Bruce Lee\Dropbox\C# Projects\Stocks\Stocks\bin\Debug\Stocks.pdb
+C:\Users\Bruce Lee\Dropbox\C# Projects\Stocks\Stocks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruce Lee\Dropbox\C# Projects\Stocks\Stocks\obj\x86\Debug\Stocks.DataEntryForm.resources
+C:\Users\Bruce Lee\Dropbox\C# Projects\Stocks\Stocks\obj\x86\Debug\Stocks.Properties.Resources.resources
+C:\Users\Bruce Lee\Dropbox\C# Projects\Stocks\Stocks\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bruce Lee\Dropbox\C# Projects\Stocks\Stocks\obj\x86\Debug\GenerateResource.write.1.tlog

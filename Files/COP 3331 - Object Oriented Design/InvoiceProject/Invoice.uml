@@ -1,0 +1,17 @@
+Walter Manger
+class Invoice:
+  - string partNumber
+  - string partDescription
+  - int quantityPurchased
+  - int price
+
+  + <<constructor>> Invoice(string, string, int, int)
+  + setPartNumber(string) : void
+  + getPartNumber() : string
+  + setPartDescription(string) : void
+  + getPartDescription() : string
+  + setQuantityPurchased(int) : void
+  + getQuantityPurchased() : int
+  + setPrice(int) : void
+  + getPrice() : int
+  + getInvoiceAmount() : int
